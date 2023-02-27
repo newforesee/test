@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T08:03:06.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="wAkpjQrYTEKRmLv6U5xj" version="20.8.23" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-27T08:07:40.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Ns3z5qqnxOIJgL3NoAdA" version="20.8.23" type="github" pages="2">
   <diagram name="第 1 页" id="r6EBoZgPhOEHDouy-fFP">
-    <mxGraphModel dx="3400" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3025" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -515,6 +515,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="mguzEEe1JFfr7jMfi1sQ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontColor=none;startArrow=classic;startFill=1;" edge="1" parent="1" source="ncl5Z9m2ieNk3BVoaAEE-66" target="ncl5Z9m2ieNk3BVoaAEE-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1980" y="206" />
+              <mxPoint x="1980" y="960" />
+              <mxPoint x="1630" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ncl5Z9m2ieNk3BVoaAEE-66" value="第三方事实表" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2180" y="185.55999999999997" width="30" height="40" as="geometry" />
         </mxCell>
@@ -524,6 +533,15 @@
               <mxPoint x="2050" y="278" />
               <mxPoint x="2050" y="450" />
               <mxPoint x="1350" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mguzEEe1JFfr7jMfi1sQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;fontColor=none;startArrow=classic;startFill=1;" edge="1" parent="1" source="ncl5Z9m2ieNk3BVoaAEE-67" target="ncl5Z9m2ieNk3BVoaAEE-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1980" y="290" />
+              <mxPoint x="1980" y="960" />
+              <mxPoint x="1630" y="960" />
             </Array>
           </mxGeometry>
         </mxCell>
